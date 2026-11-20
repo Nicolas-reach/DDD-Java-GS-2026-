@@ -5,9 +5,9 @@ FIAP · Global Solution 2026.2 · CitizenTech · Engenharia de Software (2º ano
 | Nome completo | RM |
 |---|---|
 | `[Alexandre Constantino Furtado Junior]` | `[RM567188]` |
-| `[Nicolas Forcione de Oliveira e Souza]` | `[RM566998]` |
 | `[Leonardo Batista de Souza]` | `[RM568558]` |
 | `[Matheus Freitas dos Santos]` | `[RM567337]` |
+| `[Nicolas Forcione de Oliveira e Souza]` | `[RM566998]` |
 
 
 ## Ficha da CitizenTech
