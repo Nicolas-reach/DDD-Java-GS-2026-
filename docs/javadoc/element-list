@@ -1,0 +1,12 @@
+br.com.fiap.alertabairro
+br.com.fiap.alertabairro.dominio
+br.com.fiap.alertabairro.dominio.excecao
+br.com.fiap.alertabairro.dominio.monitoramento
+br.com.fiap.alertabairro.dominio.ocorrencia
+br.com.fiap.alertabairro.dominio.territorio
+br.com.fiap.alertabairro.dominio.usuario
+br.com.fiap.alertabairro.infraestrutura
+br.com.fiap.alertabairro.notificacao
+br.com.fiap.alertabairro.repositorio
+br.com.fiap.alertabairro.servico
+br.com.fiap.alertabairro.util
